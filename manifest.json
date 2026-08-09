@@ -1,1 +1,13 @@
-{"formatVersion":1,"installer":{"latestVersion":"1.0.0","downloadUrl":"https://github.com/MH-Launcher/MH-ModPacks-Installer/releases/latest","mandatory":false},"packs":[{"id":"warfare","name":"Warfare","latest":"1.0","versions":["1.0"]}]}
+{
+  "packs": [
+    {
+      "id": "warfare",
+      "name": "Warfare",
+      "description": "Военная сборка Minecraft с оружием, техникой и дополнительными механиками.",
+      "latest": "1.0",
+      "versions": [
+        "1.0"
+      ]
+    }
+  ]
+}
