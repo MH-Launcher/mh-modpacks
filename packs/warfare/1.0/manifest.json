@@ -1,1 +1,203 @@
-{"id":"warfare","name":"Warfare","version":"1.0","date":"2026-08-10","minecraft":{"version":"1.21.1","loader":"fabric","loaderVersion":"0.16.14"},"files":[]}
+{
+    "id":  "warfare",
+    "name":  "Warfare",
+    "version":  "1.0",
+    "date":  "2026-08-10",
+    "changelog":  "1.0",
+    "minecraft":  {
+                      "version":  "1.21.1",
+                      "loader":  "neoforge",
+                      "loaderVersion":  ""
+                  },
+    "files":  [
+                  {
+                      "path":  "mods/cloth-config-15.0.140-neoforge.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/cloth-config-15.0.140-neoforge.jar",
+                      "sha256":  "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4",
+                      "size":  1163890,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/Controlling-neoforge-1.21.1-19.0.5.jar",
+                      "sha256":  "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0",
+                      "size":  77555,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/curios-neoforge-9.5.1+1.21.1.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/curios-neoforge-9.5.1+1.21.1.jar",
+                      "sha256":  "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
+                      "size":  410690,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/CustomSkinLoader_Universal-14.28.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/CustomSkinLoader_Universal-14.28.jar",
+                      "sha256":  "0008fb0a91dd1e84d52162cfe96addb5f6aed3b76d426ea7305d7624e31f1894",
+                      "size":  191666,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/drone_detector-1.2.0.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/drone_detector-1.2.0.jar",
+                      "sha256":  "03262643aabbda98abbc210a22d330adb826b15795ffda18611bc13b541e8afc",
+                      "size":  64707,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+                      "sha256":  "20014df18edb983b2c8eb764e70209ef84a4ac5aefd29ef25502fb102b0306cd",
+                      "size":  1582824,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/explosionoverhaul-0.2.3.0-neoforge.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/explosionoverhaul-0.2.3.0-neoforge.jar",
+                      "sha256":  "f6f8040cf1a177cc771c2d5f32677323b4bb87b41db210877de0192489ed8af1",
+                      "size":  100092594,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
+                      "sha256":  "ce3605a2737dc7d1e5c5b70ea78664e9eb6804b8a6eeb49cb5805be359cc4cee",
+                      "size":  25346355,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+                      "sha256":  "c93500aa25eaa7bc473e753b8abf4234e7c46713d50bb82b30383ee47e646f5a",
+                      "size":  10413,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/ferritecore-7.0.3-neoforge.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/ferritecore-7.0.3-neoforge.jar",
+                      "sha256":  "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+                      "size":  121559,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/geckolib-neoforge-1.21.1-4.9.2.jar",
+                      "sha256":  "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba",
+                      "size":  630584,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+                      "sha256":  "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0",
+                      "size":  368598,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/jei-1.21.1-neoforge-19.27.0.340.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/jei-1.21.1-neoforge-19.27.0.340.jar",
+                      "sha256":  "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826",
+                      "size":  1529391,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/konkrete_neoforge_1.9.9_MC_1.21.jar",
+                      "sha256":  "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd",
+                      "size":  618842,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/kotlinforforge-5.11.0-all.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/kotlinforforge-5.11.0-all.jar",
+                      "sha256":  "89d2ccd9d2ca2996ca3ee57b27165893f4bc4b8431be89461f8b2f8fe6162ac1",
+                      "size":  6869790,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/Ksyxis-1.4.3.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/Ksyxis-1.4.3.jar",
+                      "sha256":  "23c8c5993004f0584eb27b19b4397b7aa8833f41b8f2d1ea201ee54a60f964b9",
+                      "size":  26968,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/melody_neoforge_1.0.10_MC_1.21.jar",
+                      "sha256":  "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871",
+                      "size":  36096,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/modernfix-neoforge-5.27.11+mc1.21.1.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/modernfix-neoforge-5.27.11+mc1.21.1.jar",
+                      "sha256":  "bfc54bfb49b94dd33bc11f6f433f3d982413594baca7d3a58a0c06b2ab0cc145",
+                      "size":  587995,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+                      "sha256":  "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b",
+                      "size":  73938,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/ParCool-1.21.1-3.4.3.3-NF.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/ParCool-1.21.1-3.4.3.3-NF.jar",
+                      "sha256":  "023774b63cbacf9f17ea6404a212ec2e4e4f9777f1b7bbaea8fbb62f3f0463db",
+                      "size":  1146864,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/Searchables-neoforge-1.21.1-1.0.2.jar",
+                      "sha256":  "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+                      "size":  77326,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/sodium-neoforge-0.6.13+mc1.21.1.jar",
+                      "sha256":  "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+                      "size":  1162994,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/superbwarfare-0.8.9-final-mc1.21.1-9b5284f4.jar",
+                      "sha256":  "1a648d19104ef8c485c539edaf4795553c6ee8d5a624fb59aca5d86f4b0297c9",
+                      "size":  31688244,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/WRB-Armor-NeoForge-1.21.1-0.6.1.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/WRB-Armor-NeoForge-1.21.1-0.6.1.jar",
+                      "sha256":  "eac1c9121ce488994b89bcdc5f00122795e1a46f4aad01dc527a92a9462396e9",
+                      "size":  967460,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/xaerominimap-neoforge-1.21.1-25.3.13.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/xaerominimap-neoforge-1.21.1-25.3.13.jar",
+                      "sha256":  "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2",
+                      "size":  2138329,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "mods/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+                      "url":  "https://github.com/MH-Launcher/mh-modpacks/releases/download/warfare-1.0/xaeroworldmap-neoforge-1.21.1-1.40.16.jar",
+                      "sha256":  "73b1447333e467d23645ce7b2c319f3ca951b393b44b3a6ed0f41f06927d42bb",
+                      "size":  1387011,
+                      "replace":  true
+                  },
+                  {
+                      "path":  "options.txt",
+                      "url":  "https://raw.githubusercontent.com/MH-Launcher/mh-modpacks/main/packs/warfare/1.0/options.txt",
+                      "sha256":  "42a40c6199271cf314ab1bbdbfaf6d810fc0cea6f7449f140bf9d4bb8268da73",
+                      "size":  9447,
+                      "replace":  true
+                  }
+              ]
+}
